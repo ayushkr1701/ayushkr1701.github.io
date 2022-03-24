@@ -8,6 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -241,8 +242,8 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  height: 125vh;
+  background: url("../img/1CF472D3-955A-4599-A37B-CD4BDC814F19.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -514,7 +515,7 @@ section {
 }
 .portfolio #portfolio-flters {
   padding: 0;
-  margin: 0 auto 25px auto;
+  margin: 0 auto auto auto;
   list-style: none;
   text-align: center;
   background: #fff;
